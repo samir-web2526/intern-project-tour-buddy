@@ -40,7 +40,7 @@ const GuidesProfiles = () => {
         >
           <div className="card bg-base-100 w-full mb-2 shadow-xl">
             <div className="card-body">
-              <h2 className="card-title mb-3">
+              <h2 className="card-title flex justify-between mb-3">
                 Availability
                 <span
                   className="md:hidden cursor-pointer"
