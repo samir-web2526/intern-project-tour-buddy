@@ -23,7 +23,7 @@ const Payment = () => {
           </div>
         </div>
         <div>
-          <img src="/images/payment 1.png" alt="" />
+          <img src="/images/payment.png" alt="" />
         </div>
       </div>
       <div>
