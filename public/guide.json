@@ -1,0 +1,93 @@
+[
+  {
+    "location": "Banani, Dhaka",
+    "name": "Mehedi Hasan",
+    "reviews": 320,
+    "rating": 5,
+    "duration": "3 days",
+    "transport": false,
+    "people": 2,
+    "family_plan": true,
+    "price": 500,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image.png"
+  },
+  {
+    "location": "Dhanmondi, Dhaka",
+    "name": "Samiul Islam",
+    "reviews": 210,
+    "rating": 3,
+    "duration": "1 days",
+    "transport": true,
+    "people": 4,
+    "family_plan": false,
+    "price": 350,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (1).png"
+  },
+  {
+    "location": "Tongi, Gazipur",
+    "name": "Mahmud Rahman",
+    "reviews": 150,
+    "rating": 4,
+    "duration": "5 days",
+    "transport": false,
+    "people": 1,
+    "family_plan": true,
+    "price": 180,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (2).png"
+  },
+  {
+    "location": "Cox's Bazar",
+    "name": "Nayeem Chowdhury",
+    "reviews": 780,
+    "rating": 5,
+    "duration": "4 days",
+    "transport": true,
+    "people": 3,
+    "family_plan": true,
+    "price": 700,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (3).png"
+  },
+  {
+    "location": "Sreemangal, Sylhet",
+    "name": "Tanvir Ahmed",
+    "reviews": 620,
+    "rating": 4,
+    "duration": "6 days",
+    "transport": true,
+    "people": 2,
+    "family_plan": false,
+    "price": 250,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (4).png"
+  },
+  {
+    "location": "Barisal",
+    "name": "Arif Hossain",
+    "reviews": 430,
+    "rating": 3,
+    "duration": "2 days",
+    "transport": false,
+    "people": 1,
+    "family_plan": true,
+    "price": 400,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (5).png"
+  },
+  {
+    "location": "Bandarban",
+    "name": "Hasan Jamil",
+    "reviews": 890,
+    "rating": 5,
+    "duration": "3 days",
+    "transport": true,
+    "people": 5,
+    "family_plan": true,
+    "price": 800,
+    "currency": "Tk",
+    "image": "/src/assets/images/guides/image (6).png"
+  }
+]
