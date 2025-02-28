@@ -9,10 +9,10 @@ const Footer = () => {
     <div>
       <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10">
         <div>
-          <img src="/src/assets/footer-icons/tour buddy.png" alt="" />
+          <img src="/images/tour buddy.png" alt="" />
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn m-1 flex">
-              <img className="w-6 h-6" src="/src/assets/images/uk.png" alt="" />
+              <img className="w-6 h-6" src="/images/uk.png" alt="" />
               <h1 className="flex gap-5">English (UK) <span><MdOutlineArrowDropDown></MdOutlineArrowDropDown></span></h1>
             </div>
             <div

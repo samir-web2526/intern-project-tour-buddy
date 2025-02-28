@@ -60,127 +60,122 @@ const Payment = () => {
           <div className="grid grid-cols-4 md:grid-cols-9 gap-2">
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/ab.png"
+              src="/images/ab.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/bankasia.jpg"
+              src="/images/bankasia.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Bkash-Logo.jpg"
+              src="/images/bkash.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/brac.png"
+              src="/images/brac.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/citytouch.png"
+              src="/images/citytouch.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/DBBL.jpg"
+              src="/images/dbl.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/firstcash.jpg"
+              src="/images/firstcash.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/fsib.jpg"
+              src="/images/fsib.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/i-pay.png"
+              src="/images/ipay.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/i-pay.png"
+              src="/images/islamibank.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/islamibank.png"
+              src="/images/islamiwallet.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/islamiwallet.jpg"
+              src="/images/imcb.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/MCB.jpg"
+              src="/images/modhumoti.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/modhumoti.png"
+              src="/images/mtb.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/mtb.jpg"
+              src="/images/mycash.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/mycash.png"
+              src="/images/nogodlogo.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Nogod.jpg"
+              src="/images/cashq.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Qcash.png"
+              src="/images/rocketlogo.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Rocket.png"
+              src="/images/southeastbank.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/southeastbank.jpg"
+              src="/images/surecash.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Sure.jpg"
+              src="/images/tappay.jpg"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/tap'n.jpg"
+              src="/images/union.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/union.png"
+              src="/images/upaylogo.png"
               alt=""
             />
             <img
               className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/Upay.png"
-              alt=""
-            />
-            <img
-              className="border shadow-sm rounded-xl w-18 h-18"
-              src="/src/assets/images/wallet.png"
+              src="/images/wallet.png"
               alt=""
             />
           </div>
